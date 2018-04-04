@@ -110,8 +110,8 @@
   
   <entry>
     <title>World</title>
-    <link href="http://yoursite.com/2018/04/03/hello-world2/"/>
-    <id>http://yoursite.com/2018/04/03/hello-world2/</id>
+    <link href="http://yoursite.com/2018/04/03/hello-world2%203/"/>
+    <id>http://yoursite.com/2018/04/03/hello-world2 3/</id>
     <published>2018-04-03T07:41:18.000Z</published>
     <updated>2018-04-04T08:40:34.000Z</updated>
     
@@ -133,8 +133,8 @@
   
   <entry>
     <title>World</title>
-    <link href="http://yoursite.com/2018/04/03/hello-world2%203/"/>
-    <id>http://yoursite.com/2018/04/03/hello-world2 3/</id>
+    <link href="http://yoursite.com/2018/04/03/hello-world2/"/>
+    <id>http://yoursite.com/2018/04/03/hello-world2/</id>
     <published>2018-04-03T07:41:18.000Z</published>
     <updated>2018-04-04T08:40:34.000Z</updated>
     

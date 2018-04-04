@@ -974,8 +974,6 @@ pre .javascript .function {
   margin-top: 4px;
 }
 .pagination {
-  margin: 120px 0 40px;
-  text-align: center;
   border-top: 1px solid #eee;
 }
 .page-number-basic,
@@ -1933,7 +1931,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff4545;
+  background: #ffd9ff;
 }
 .site-author-image {
   display: block;
