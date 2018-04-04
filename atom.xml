@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr_Young</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-04-03T04:37:02.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr_Young</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>World</title>
+    <link href="http://yoursite.com/2018/03/30/hello-world2/"/>
+    <id>http://yoursite.com/2018/03/30/hello-world2/</id>
+    <published>2018-03-30T02:28:30.000Z</published>
+    <updated>2018-04-03T04:37:02.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/30/hello-world3/"/>
+    <id>http://yoursite.com/2018/03/30/hello-world3/</id>
+    <published>2018-03-30T02:28:30.000Z</published>
+    <updated>2018-04-03T04:37:35.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mryoung</title>
+    <link href="http://yoursite.com/2018/03/30/hello-world4/"/>
+    <id>http://yoursite.com/2018/03/30/hello-world4/</id>
+    <published>2018-03-30T02:28:30.000Z</published>
+    <updated>2018-04-03T04:38:08.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="http://yoursite.com/2017/08/18/hello-world/"/>
+    <id>http://yoursite.com/2017/08/18/hello-world/</id>
+    <published>2017-08-18T07:41:18.000Z</published>
+    <updated>2018-04-03T06:41:09.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="分类1" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+</feed>
