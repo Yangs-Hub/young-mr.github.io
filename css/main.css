@@ -1900,6 +1900,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 15px;
   color: #fc6423;
+  border: 0px;
   border-radius: 4px;
 }
 .feed-link a i {
@@ -1932,7 +1933,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffc4;
+  background: #ffcf90;
 }
 .site-author-image {
   display: block;
