@@ -944,6 +944,7 @@ pre .javascript .function {
   background: #222;
   border: 2px solid #222;
   text-decoration: none;
+  border-radius: 20px;
   border-radius: 0;
   transition-property: background-color;
   transition-duration: 0.2s;
@@ -1900,7 +1901,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 15px;
   color: #fc6423;
-  border: 0px;
+  border-bottom: 0px;
   border-radius: 4px;
 }
 .feed-link a i {
@@ -1933,7 +1934,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffcf90;
+  background: #77a7de;
 }
 .site-author-image {
   display: block;
