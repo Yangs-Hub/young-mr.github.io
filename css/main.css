@@ -453,7 +453,7 @@ body {
   }
 }
 .main {
-  padding-bottom: 150px;
+  padding-bottom: 50px /* + $gap-between-main-and-footer*/;
 }
 .main-inner {
   margin: 0 auto;
@@ -1932,7 +1932,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d5c4e0;
+  background: #ff47ff;
 }
 .site-author-image {
   display: block;
